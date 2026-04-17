@@ -111,6 +111,7 @@ while True:
         monthly_summary()
     elif choice == "7":
         print("Goodbye!")
+
         break
     else:
         print("Invalid choice")

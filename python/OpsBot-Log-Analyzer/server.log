@@ -1,0 +1,15 @@
+INFO User logged in
+ERROR Database connection failed
+CRITICAL Server crashed due to overload
+FAILED LOGIN attempt from IP 192.168.1.1
+INFO Request processed successfully
+ERROR Timeout occurred while fetching data
+FAILED LOGIN attempt from IP 192.168.1.2
+CRITICAL Memory leak detected
+INFO Backup completed
+ERROR Disk space low
+FAILED LOGIN attempt from IP 10.0.0.5
+INFO User logged out
+CRITICAL Unauthorized access detected
+ERROR API response failed
+INFO Server restarted
